@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About HJ Yoo
+title: About me
 subtitle: will you marry me ?
 ---
 
 My name is Yoo HyunJung. I teach chemistry and biology of SAT/IB/regular:
 
+### My classes
 - Reach Preb : SAT/IB/regular/olympiad
 - master Preb : SAT
 - Paul academy : SAT/IB
 
-What else do you need?
+### Book
+ - A Secret Note for Biology
 
 ### My story
 master degree - blarblar<br>
