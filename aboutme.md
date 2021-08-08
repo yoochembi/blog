@@ -7,7 +7,7 @@ subtitle: will you marry me ?
 My name is Yoo HyunJung. I teach chemistry and biology of SAT/IB/regular:
 
 ### My classes
-- Reach Preb : SAT/IB/regular/olympiad
+- Reach Preb : SAT/AP/regular/olympiad
 - master Preb : SAT
 - Paul academy : SAT/IB
 
