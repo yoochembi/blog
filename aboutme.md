@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: will you marry me ?
+subtitle: teach for chemistry and biology
 ---
 
 My name is Yoo HyunJung. I teach chemistry and biology of SAT/IB/regular:
@@ -14,7 +14,7 @@ My name is Yoo HyunJung. I teach chemistry and biology of SAT/IB/regular:
 ### Book
 <img src = "./assets/img/book1.PNG" height="300">
  - A Secret Note for Biology 
- - [book1](./assets/img/book1.PNG)
+[book1](./assets/img/book1.PNG)
 
 ### youtube
 [![Watch the video](http://i3.ytimg.com/vi/lyc-AuTFL6w/hqdefault.jpg)](https://www.youtube.com/watch?v=lyc-AuTFL6w)
