@@ -12,7 +12,8 @@ My name is Yoo HyunJung. I teach chemistry and biology of SAT/IB/regular:
 - Paul academy : SAT/IB
 
 ### Book
- - A Secret Note for Biology ![mybook1](./assets/img/book1.PNG){: width="300" height="300"}
+ - A Secret Note for Biology ![mybook1](./assets/img/book1.PNG)
+ - <img src = "./assets/img/book1.PNG" width="30%" height="30%">
 
 ### youtube
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=lyc-AuTFL6w)
